@@ -1,0 +1,18 @@
+digraph "PlayerMovement.Update"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node49 [label="PlayerMovement.Update",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node49 -> Node50 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node50 [label="PlayerMovement.Backup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a5bcdd14624c03266d586041bc78393ba",tooltip="Backup: Backs up the CoinCount and Num_Of_Lives variables. "];
+  Node49 -> Node51 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node51 [label="PlayerMovement.RestartGame",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a5902557351986a2bd9594722861f6de6",tooltip="RestartGame: Restarts the game if the Player dies. "];
+  Node51 -> Node50 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node51 -> Node52 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node52 [label="PlayerMovement.EndGame",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a9e8852a07098a92796d129888475cf9b",tooltip="EndGame: Quits the Application. "];
+  Node51 -> Node53 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node53 [label="PlayerMovement.WaitForClip\lAndReset",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#ade408e27d607b1036a305ded560da38d",tooltip="WaitForClipAndReset: Waits for the audio clip to finish then resets scene. "];
+  Node49 -> Node54 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node54 [label="PlayerMovement.UpdateScore",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a460c3d92df83d68030fb5c46228ac9b2",tooltip="UpdateScore: Updates the Score constantly, Can be called by any function or Script. "];
+}

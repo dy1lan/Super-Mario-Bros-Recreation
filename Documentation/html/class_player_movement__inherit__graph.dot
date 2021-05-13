@@ -1,0 +1,8 @@
+digraph "PlayerMovement"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node0 [label="{PlayerMovement\n|+ allowMove\l+ ScoreCount\l+ time\l+ CoinCount\l- controller\l- animator\l- runSpeed\l- m_points\l- m_coins\l- m_time\l- m_lives\l- aJump\l- aDie\l- aGameOver\land 11 more...\l|+ UpdateScore()\l+ UpdateTime()\l+ Backup()\l+ OnLanding()\l+ RestartGame()\l+ StopCharacter()\l+ EndGame()\l- Start()\l- Update()\l- FixedUpdate()\l- StartTime()\l- WaitForClipAndReset()\l- OnTriggerEnter2D()\l- AddFinalPoints()\l- PlayFlagSound()\l- MoveCharacter()\l- WaitToEnd()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node1 [label="{MonoBehaviour\n||}",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

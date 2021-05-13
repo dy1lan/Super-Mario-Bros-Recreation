@@ -1,0 +1,13 @@
+digraph "PlayerMovement.UpdateScore"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node57 [label="PlayerMovement.UpdateScore",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node57 -> Node58 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node58 [label="PlayerMovement.Update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#aaf9b77d7177d538be9c1447d08191322"];
+  Node57 -> Node59 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node59 [label="PlayerMovement.AddFinalPoints",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a99e6046125fbe147900c101f8f99d959"];
+  Node59 -> Node60 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node60 [label="PlayerMovement.OnTrigger\lEnter2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a0f1ed1e33528156b8222ef90b75cf6c9",tooltip="OnTriggerEnter2D: Only runs when the player reaches the end post. GameObject that collided with this..."];
+}

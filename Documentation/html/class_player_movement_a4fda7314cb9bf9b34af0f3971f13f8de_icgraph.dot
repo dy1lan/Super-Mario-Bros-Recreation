@@ -1,0 +1,9 @@
+digraph "PlayerMovement.WaitToEnd"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node72 [label="PlayerMovement.WaitToEnd",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node72 -> Node73 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node73 [label="PlayerMovement.OnTrigger\lEnter2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a0f1ed1e33528156b8222ef90b75cf6c9",tooltip="OnTriggerEnter2D: Only runs when the player reaches the end post. GameObject that collided with this..."];
+}

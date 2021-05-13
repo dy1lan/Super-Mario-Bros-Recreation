@@ -1,0 +1,395 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="background"><param name="Local" value="classbackground.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PauseGame"><param name="Local" value="classbackground.html#a5a2f7456aeaeb77820b74e49fb6fbbfd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PlaySFX"><param name="Local" value="classbackground.html#afa85bb31a7d4c9454fb149b370fadc10"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="classbackground.html#a35a48bb8a117fc370098eaa01f4e6e00"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="StartBackgroundMusic"><param name="Local" value="classbackground.html#aa037f641ba8459f7ad7cfe1c30416c8a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="StopBackgroundMusic"><param name="Local" value="classbackground.html#ad13621dce2904908e6f4fef455ab2d74"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="classbackground.html#a5ec0bf3229f13e644a91d128eb42dbe3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aCoin"><param name="Local" value="classbackground.html#a174c6257b669f6d7ba37470c0241ea6a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aPause"><param name="Local" value="classbackground.html#a83a181f1902477a1ffd8c6f2599352ae"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="classbackground.html#a218eb091cb4718c8dbafd374c1bd0237"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="paused"><param name="Local" value="classbackground.html#a32c2cffe15b938b3c4e82eaaac4aacc0"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraFollow"><param name="Local" value="class_camera_follow.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Awake"><param name="Local" value="class_camera_follow.html#a3b1e4f2739bd72d84ecc48ed78ee0022"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CheckXMargin"><param name="Local" value="class_camera_follow.html#ab56f24b2cd190f2e980f78d3d80c428d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CheckYMargin"><param name="Local" value="class_camera_follow.html#abe27e4e9485e47735a03a5b6f0152d17"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FixedUpdate"><param name="Local" value="class_camera_follow.html#ab8ce2043b1a47917b8b970f5579af9ec"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TrackPlayer"><param name="Local" value="class_camera_follow.html#a4d3310556784e5842c89c6f678ead310"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="maxXAndY"><param name="Local" value="class_camera_follow.html#a745fb49ca2157bf3fe1e6f6621b9d75d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="minXAndY"><param name="Local" value="class_camera_follow.html#ad6d84102f1da82ee18eddbddfbfb1668"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="player"><param name="Local" value="class_camera_follow.html#ab2146cca1d5f34db0eaf152b8e4a2792"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="xMargin"><param name="Local" value="class_camera_follow.html#a2df8d813fb74253311936004c7c44b2d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="xSmooth"><param name="Local" value="class_camera_follow.html#aba2142b460f986abe15f3f02001d7a84"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="yMargin"><param name="Local" value="class_camera_follow.html#a01a4a7cbd824aae84265248924a5c589"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ySmooth"><param name="Local" value="class_camera_follow.html#a23adf0ee8570ff43e782a1a1ea403cec"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CharacterController2D"><param name="Local" value="class_character_controller2_d.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="BoolEvent"><param name="Local" value="class_character_controller2_d_1_1_bool_event.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Awake"><param name="Local" value="class_character_controller2_d.html#a63dec3eea904614ce11fff4d0b1f3374"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Flip"><param name="Local" value="class_character_controller2_d.html#acfb0e38a2b262dfe753e47ae9d4f336b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Move"><param name="Local" value="class_character_controller2_d.html#adb306cb0500ac53701aaba76f5731b1a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="class_character_controller2_d.html#aaa4aca9808797dcf8281deb99d0edd4f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="k_GroundedRadius"><param name="Local" value="class_character_controller2_d.html#a9f4224dedda28261c632e1c24a8a55e2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AirControl"><param name="Local" value="class_character_controller2_d.html#a6da3089302e13069227012c32f2001d3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_CeilingCheck"><param name="Local" value="class_character_controller2_d.html#a86bb4d9322a1ef504679edb5fa508553"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FacingRight"><param name="Local" value="class_character_controller2_d.html#a41cdb4cfaf0030760c70073889522e3f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_GroundCheck"><param name="Local" value="class_character_controller2_d.html#a5820b598bb3ba468322d7ac29ac8ab9b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Grounded"><param name="Local" value="class_character_controller2_d.html#a8872f185b5e970f50025334fd24b1b3c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_JumpForce"><param name="Local" value="class_character_controller2_d.html#a6d56dd6c2c50a02e53addf30ba18f7ab"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MovementSmoothing"><param name="Local" value="class_character_controller2_d.html#a4dc1cb20a2a4e0ff4e5ce6e6dc9c3a7d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Rigidbody2D"><param name="Local" value="class_character_controller2_d.html#a1b1f1a6e2559828717a29a326e65f6aa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Velocity"><param name="Local" value="class_character_controller2_d.html#a368da9514d4f1fe2e4e7037408c5b916"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_WhatIsGround"><param name="Local" value="class_character_controller2_d.html#a2d16142054fb45729620bcbe0aec0a4b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnLandEvent"><param name="Local" value="class_character_controller2_d.html#ac1c8e4c27e899bf1e46f76044c0fbe0a"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="DataSave"><param name="Local" value="class_data_save.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Awake"><param name="Local" value="class_data_save.html#a49cf9989317f76b549231568db5afa12"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CoinCount_bak"><param name="Local" value="class_data_save.html#a06e4a65d9f2ab3a32859c5d24dce26bb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Num_Of_Lives_bak"><param name="Local" value="class_data_save.html#a0840305015b7dcc9d3aa3474b2318cb5"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="enemy"><param name="Local" value="classenemy.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Awake"><param name="Local" value="classenemy.html#aa81401af86913bbc3e77a7d56bb8b3d6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FixedUpdate"><param name="Local" value="classenemy.html#ac84d8b8d2feec1232f6740eadb8c8ccf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Flip"><param name="Local" value="classenemy.html#ae0075814fcebcb613b4ce42aad99cdfb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="HitPlayer"><param name="Local" value="classenemy.html#a4ea677a5739bfea1cbc9f14b46ed852d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="classenemy.html#ad933b3b6a938fc37b6f0518be86e4787"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="classenemy.html#af850b712d8cce58da2f8400a4bf88bee"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WaitForRestart"><param name="Local" value="classenemy.html#ac9249371351a925c7cedd168cc413062"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aBump"><param name="Local" value="classenemy.html#ad7f9a99c15757e7a07cb8b8027aab15b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="anim"><param name="Local" value="classenemy.html#a5a6142ad0a5d9d7f67f488b3a1d6a2e4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="classenemy.html#a1120e49c89802e0349e022054f247721"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aStomp"><param name="Local" value="classenemy.html#a5e5169c18cf5b05c768a65f253443756"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="deadEnemy"><param name="Local" value="classenemy.html#af0cf51f13ddb72772d66ec9b46d2d11d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Destroyed"><param name="Local" value="classenemy.html#a97c620393af17f493d25a9646480c72a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="frontCheck"><param name="Local" value="classenemy.html#a20addac434aad7fb7f2ed39a0a2efb92"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="HitTrigger"><param name="Local" value="classenemy.html#a405a001fc89c301d12198e19820b93f2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="moveSpeed"><param name="Local" value="classenemy.html#a78b190518f356123f8f4a16f61f9d955"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="item"><param name="Local" value="classitem.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="classitem.html#a0f96783c4b95c3dc2188a120ac9a4901"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="classitem.html#a7afa4325caedc2fd20aaf287781885ff"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WaitAndDie"><param name="Local" value="classitem.html#a642b2ad0b64ed9353438639661c2db9a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aCoin"><param name="Local" value="classitem.html#a1a922ace1455a8c41080ca84dc0c15a1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aPowerup_ate"><param name="Local" value="classitem.html#abdb640bee03caac82cfa91fffff9124c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="classitem.html#acb5193ab3004418bfaefcb9d0c022854"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Destroyed"><param name="Local" value="classitem.html#a78cf641dab862f4fb94570056dd4ce39"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="itemName"><param name="Local" value="classitem.html#ad01ca4272a15774c2090f2b1abafe490"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="pointFont"><param name="Local" value="classitem.html#a67d08ea27debde10a64e5ddc6bfbcb83"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="killBox_Action"><param name="Local" value="classkill_box___action.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnCollisionEnter2D"><param name="Local" value="classkill_box___action.html#a2ec8907db96dfa6526367fe3adedcf57"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="classkill_box___action.html#ac070e522ef08210db02f878147730c7e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="parentScript"><param name="Local" value="classkill_box___action.html#acef70303c79cd52ff83257244fb550b4"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="PlayerMovement"><param name="Local" value="class_player_movement.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AddFinalPoints"><param name="Local" value="class_player_movement.html#a99e6046125fbe147900c101f8f99d959"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Backup"><param name="Local" value="class_player_movement.html#a5bcdd14624c03266d586041bc78393ba"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EndGame"><param name="Local" value="class_player_movement.html#a9e8852a07098a92796d129888475cf9b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FixedUpdate"><param name="Local" value="class_player_movement.html#a0caaa871b9ef680c9f02bd0e22c77db1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveCharacter"><param name="Local" value="class_player_movement.html#a32eaab5e97185890fe1d96e6eb2fff51"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnLanding"><param name="Local" value="class_player_movement.html#abfd7d674aa0d3a70184897dcf7fba738"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="class_player_movement.html#a0f1ed1e33528156b8222ef90b75cf6c9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PlayFlagSound"><param name="Local" value="class_player_movement.html#a7c51dc732580b4fdde76c2dcc4932570"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="RestartGame"><param name="Local" value="class_player_movement.html#a5902557351986a2bd9594722861f6de6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="class_player_movement.html#abf3660ca2b1a352b4a9da98437c61aa3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="StartTime"><param name="Local" value="class_player_movement.html#aae4c9ac9f97ee922d747872c00c75597"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="StopCharacter"><param name="Local" value="class_player_movement.html#ad764ebaf27d812fe2a2a9c5aaaac4140"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="class_player_movement.html#aaf9b77d7177d538be9c1447d08191322"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateScore"><param name="Local" value="class_player_movement.html#a460c3d92df83d68030fb5c46228ac9b2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateTime"><param name="Local" value="class_player_movement.html#ac3c54bf305c189b07b049d9afad28853"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WaitForClipAndReset"><param name="Local" value="class_player_movement.html#ade408e27d607b1036a305ded560da38d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="WaitToEnd"><param name="Local" value="class_player_movement.html#a4fda7314cb9bf9b34af0f3971f13f8de"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aDie"><param name="Local" value="class_player_movement.html#a5609ab9358388649d6e831ea374d268a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aFlag"><param name="Local" value="class_player_movement.html#a3982a47a9beccf33cb965d74e7517571"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aGameOver"><param name="Local" value="class_player_movement.html#ab9344531b8234665516c60038b888332"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aJump"><param name="Local" value="class_player_movement.html#a79cd6eb83a3f577b841dee2b0829e9e3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="allowMove"><param name="Local" value="class_player_movement.html#a217c3ced225b38602492d8850ef33f48"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="animator"><param name="Local" value="class_player_movement.html#aa28ee5c780c6cab4092054bbe95b0d10"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="class_player_movement.html#ad8aa606eb41f85d3a3feeb786be229e1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aStageClear"><param name="Local" value="class_player_movement.html#a370e12da4ad933b4fec669542b3ffb9a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CoinCount"><param name="Local" value="class_player_movement.html#ab84dd58b05b6789bfc1d96adc45073a5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="controller"><param name="Local" value="class_player_movement.html#a9760fdc26477db26c5816ea3d1ae0def"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="horizontalMove"><param name="Local" value="class_player_movement.html#a8a01bfbf958d89a2c204a747098a6f24"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="inReset"><param name="Local" value="class_player_movement.html#a6b6aefe2d68a93cf95d09bc052096fcb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="jump"><param name="Local" value="class_player_movement.html#af33cc9d4c2dc2e8a0ce69b42764b2f27"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="livesScore"><param name="Local" value="class_player_movement.html#a7b1e9cfeac43737345271374b82c58e3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_coins"><param name="Local" value="class_player_movement.html#adf065c536161f386ae3dcf639d2d6c58"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_lives"><param name="Local" value="class_player_movement.html#a1eef5899e23c79bf25924ac2cabf4f06"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_points"><param name="Local" value="class_player_movement.html#a8ea1526bd44920a01c9741f13214340b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_time"><param name="Local" value="class_player_movement.html#ad223edf92d27f2bf95a9fb282bc036d4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Num_Of_Lives"><param name="Local" value="class_player_movement.html#a7564966066f5aa3f41ecc759198d81a3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Previous_Score"><param name="Local" value="class_player_movement.html#a1ea008c6d78d95f162238ba4be4ea2e8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="rbody"><param name="Local" value="class_player_movement.html#a54c5516a4e95fab05fe7acf6cd889fdf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="runSpeed"><param name="Local" value="class_player_movement.html#a3e95a93e4b38bd93a910320465cc00d1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ScoreCount"><param name="Local" value="class_player_movement.html#ada75b398c592a9525070df378b0845ab"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="StopTimer"><param name="Local" value="class_player_movement.html#ac0da0e1b4bc3ac9db11de1f17fc349db"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="time"><param name="Local" value="class_player_movement.html#ac3a6e0cde0ec0db684ac567f5dd7f3b9"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Post_action"><param name="Local" value="class_post__action.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="class_post__action.html#a381e276a445d79bd7558687002545410"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="class_post__action.html#a5e0f8b93979047ec0a1a0a0a27b7bcde"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="anim"><param name="Local" value="class_post__action.html#a9bd30f476a7b52ee64a7eb70d7a14a6a"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="QMark"><param name="Local" value="class_q_mark.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="class_q_mark.html#a3e516353de7b3412330ffa3aad3ab51e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Spawn"><param name="Local" value="class_q_mark.html#aaef7e7f46913792536471a4c42207ed1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="class_q_mark.html#a12fc2eab9a128b4d45df50f9f34a72cd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="class_q_mark.html#a94d9939fd8fe151b15c232cf69c516c4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="anim"><param name="Local" value="class_q_mark.html#ae6bf508ab3c33227795010b3d0151585"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="class_q_mark.html#a7911e5770da8bcfd8d8f88225c218b90"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="coin"><param name="Local" value="class_q_mark.html#aeebc99d97e09348e0d90ca9647d775c8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="HasBeenHit"><param name="Local" value="class_q_mark.html#a4f4399eb2a4df3d5b8775af989a29a85"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="items"><param name="Local" value="class_q_mark.html#a8029b950df7e9480f04b6f3b4a66729e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="powerUp"><param name="Local" value="class_q_mark.html#a8cd8e5e3bc16db19f3008c28e2c0b65f"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MonoBehaviour"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="background"><param name="Local" value="classbackground.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraFollow"><param name="Local" value="class_camera_follow.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CharacterController2D"><param name="Local" value="class_character_controller2_d.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DataSave"><param name="Local" value="class_data_save.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="enemy"><param name="Local" value="classenemy.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="item"><param name="Local" value="classitem.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="killBox_Action"><param name="Local" value="classkill_box___action.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="PlayerMovement"><param name="Local" value="class_player_movement.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Post_action"><param name="Local" value="class_post__action.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="QMark"><param name="Local" value="class_q_mark.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UnityEvent"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CharacterController2D.BoolEvent"><param name="Local" value="class_character_controller2_d_1_1_bool_event.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Assets"><param name="Local" value="dir_84bbf7b3c7f28a5a18725745e1505219.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Scripts"><param name="Local" value="dir_f13b41af88cf68434578284aaf699e39.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="background.cs"><param name="Local" value="background_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="background"><param name="Local" value="classbackground.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="PauseGame"><param name="Local" value="classbackground.html#a5a2f7456aeaeb77820b74e49fb6fbbfd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="PlaySFX"><param name="Local" value="classbackground.html#afa85bb31a7d4c9454fb149b370fadc10"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="classbackground.html#a35a48bb8a117fc370098eaa01f4e6e00"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="StartBackgroundMusic"><param name="Local" value="classbackground.html#aa037f641ba8459f7ad7cfe1c30416c8a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="StopBackgroundMusic"><param name="Local" value="classbackground.html#ad13621dce2904908e6f4fef455ab2d74"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="classbackground.html#a5ec0bf3229f13e644a91d128eb42dbe3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aCoin"><param name="Local" value="classbackground.html#a174c6257b669f6d7ba37470c0241ea6a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aPause"><param name="Local" value="classbackground.html#a83a181f1902477a1ffd8c6f2599352ae"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="classbackground.html#a218eb091cb4718c8dbafd374c1bd0237"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="paused"><param name="Local" value="classbackground.html#a32c2cffe15b938b3c4e82eaaac4aacc0"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraFollow.cs"><param name="Local" value="_camera_follow_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraFollow"><param name="Local" value="class_camera_follow.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Awake"><param name="Local" value="class_camera_follow.html#a3b1e4f2739bd72d84ecc48ed78ee0022"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CheckXMargin"><param name="Local" value="class_camera_follow.html#ab56f24b2cd190f2e980f78d3d80c428d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CheckYMargin"><param name="Local" value="class_camera_follow.html#abe27e4e9485e47735a03a5b6f0152d17"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="FixedUpdate"><param name="Local" value="class_camera_follow.html#ab8ce2043b1a47917b8b970f5579af9ec"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="TrackPlayer"><param name="Local" value="class_camera_follow.html#a4d3310556784e5842c89c6f678ead310"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="maxXAndY"><param name="Local" value="class_camera_follow.html#a745fb49ca2157bf3fe1e6f6621b9d75d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="minXAndY"><param name="Local" value="class_camera_follow.html#ad6d84102f1da82ee18eddbddfbfb1668"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="player"><param name="Local" value="class_camera_follow.html#ab2146cca1d5f34db0eaf152b8e4a2792"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="xMargin"><param name="Local" value="class_camera_follow.html#a2df8d813fb74253311936004c7c44b2d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="xSmooth"><param name="Local" value="class_camera_follow.html#aba2142b460f986abe15f3f02001d7a84"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="yMargin"><param name="Local" value="class_camera_follow.html#a01a4a7cbd824aae84265248924a5c589"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ySmooth"><param name="Local" value="class_camera_follow.html#a23adf0ee8570ff43e782a1a1ea403cec"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CharacterController2D.cs"><param name="Local" value="_character_controller2_d_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CharacterController2D"><param name="Local" value="class_character_controller2_d.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BoolEvent"><param name="Local" value="class_character_controller2_d_1_1_bool_event.html"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Awake"><param name="Local" value="class_character_controller2_d.html#a63dec3eea904614ce11fff4d0b1f3374"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Flip"><param name="Local" value="class_character_controller2_d.html#acfb0e38a2b262dfe753e47ae9d4f336b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Move"><param name="Local" value="class_character_controller2_d.html#adb306cb0500ac53701aaba76f5731b1a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="class_character_controller2_d.html#aaa4aca9808797dcf8281deb99d0edd4f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="k_GroundedRadius"><param name="Local" value="class_character_controller2_d.html#a9f4224dedda28261c632e1c24a8a55e2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_AirControl"><param name="Local" value="class_character_controller2_d.html#a6da3089302e13069227012c32f2001d3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_CeilingCheck"><param name="Local" value="class_character_controller2_d.html#a86bb4d9322a1ef504679edb5fa508553"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FacingRight"><param name="Local" value="class_character_controller2_d.html#a41cdb4cfaf0030760c70073889522e3f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_GroundCheck"><param name="Local" value="class_character_controller2_d.html#a5820b598bb3ba468322d7ac29ac8ab9b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Grounded"><param name="Local" value="class_character_controller2_d.html#a8872f185b5e970f50025334fd24b1b3c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_JumpForce"><param name="Local" value="class_character_controller2_d.html#a6d56dd6c2c50a02e53addf30ba18f7ab"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MovementSmoothing"><param name="Local" value="class_character_controller2_d.html#a4dc1cb20a2a4e0ff4e5ce6e6dc9c3a7d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Rigidbody2D"><param name="Local" value="class_character_controller2_d.html#a1b1f1a6e2559828717a29a326e65f6aa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Velocity"><param name="Local" value="class_character_controller2_d.html#a368da9514d4f1fe2e4e7037408c5b916"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_WhatIsGround"><param name="Local" value="class_character_controller2_d.html#a2d16142054fb45729620bcbe0aec0a4b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnLandEvent"><param name="Local" value="class_character_controller2_d.html#ac1c8e4c27e899bf1e46f76044c0fbe0a"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BoolEvent"><param name="Local" value="class_character_controller2_d_1_1_bool_event.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DataSave.cs"><param name="Local" value="_data_save_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DataSave"><param name="Local" value="class_data_save.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Awake"><param name="Local" value="class_data_save.html#a49cf9989317f76b549231568db5afa12"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CoinCount_bak"><param name="Local" value="class_data_save.html#a06e4a65d9f2ab3a32859c5d24dce26bb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Num_Of_Lives_bak"><param name="Local" value="class_data_save.html#a0840305015b7dcc9d3aa3474b2318cb5"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="enemy.cs"><param name="Local" value="enemy_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="enemy"><param name="Local" value="classenemy.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Awake"><param name="Local" value="classenemy.html#aa81401af86913bbc3e77a7d56bb8b3d6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="FixedUpdate"><param name="Local" value="classenemy.html#ac84d8b8d2feec1232f6740eadb8c8ccf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Flip"><param name="Local" value="classenemy.html#ae0075814fcebcb613b4ce42aad99cdfb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="HitPlayer"><param name="Local" value="classenemy.html#a4ea677a5739bfea1cbc9f14b46ed852d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="classenemy.html#ad933b3b6a938fc37b6f0518be86e4787"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="classenemy.html#af850b712d8cce58da2f8400a4bf88bee"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="WaitForRestart"><param name="Local" value="classenemy.html#ac9249371351a925c7cedd168cc413062"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aBump"><param name="Local" value="classenemy.html#ad7f9a99c15757e7a07cb8b8027aab15b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="anim"><param name="Local" value="classenemy.html#a5a6142ad0a5d9d7f67f488b3a1d6a2e4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="classenemy.html#a1120e49c89802e0349e022054f247721"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aStomp"><param name="Local" value="classenemy.html#a5e5169c18cf5b05c768a65f253443756"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="deadEnemy"><param name="Local" value="classenemy.html#af0cf51f13ddb72772d66ec9b46d2d11d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Destroyed"><param name="Local" value="classenemy.html#a97c620393af17f493d25a9646480c72a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="frontCheck"><param name="Local" value="classenemy.html#a20addac434aad7fb7f2ed39a0a2efb92"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="HitTrigger"><param name="Local" value="classenemy.html#a405a001fc89c301d12198e19820b93f2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="moveSpeed"><param name="Local" value="classenemy.html#a78b190518f356123f8f4a16f61f9d955"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="item.cs"><param name="Local" value="item_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="item"><param name="Local" value="classitem.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="classitem.html#a0f96783c4b95c3dc2188a120ac9a4901"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="classitem.html#a7afa4325caedc2fd20aaf287781885ff"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="WaitAndDie"><param name="Local" value="classitem.html#a642b2ad0b64ed9353438639661c2db9a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aCoin"><param name="Local" value="classitem.html#a1a922ace1455a8c41080ca84dc0c15a1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aPowerup_ate"><param name="Local" value="classitem.html#abdb640bee03caac82cfa91fffff9124c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="classitem.html#acb5193ab3004418bfaefcb9d0c022854"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Destroyed"><param name="Local" value="classitem.html#a78cf641dab862f4fb94570056dd4ce39"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="itemName"><param name="Local" value="classitem.html#ad01ca4272a15774c2090f2b1abafe490"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="pointFont"><param name="Local" value="classitem.html#a67d08ea27debde10a64e5ddc6bfbcb83"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="killBox_Action.cs"><param name="Local" value="kill_box___action_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="killBox_Action"><param name="Local" value="classkill_box___action.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnCollisionEnter2D"><param name="Local" value="classkill_box___action.html#a2ec8907db96dfa6526367fe3adedcf57"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="classkill_box___action.html#ac070e522ef08210db02f878147730c7e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="parentScript"><param name="Local" value="classkill_box___action.html#acef70303c79cd52ff83257244fb550b4"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PlayerMovement.cs"><param name="Local" value="_player_movement_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PlayerMovement"><param name="Local" value="class_player_movement.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AddFinalPoints"><param name="Local" value="class_player_movement.html#a99e6046125fbe147900c101f8f99d959"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Backup"><param name="Local" value="class_player_movement.html#a5bcdd14624c03266d586041bc78393ba"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="EndGame"><param name="Local" value="class_player_movement.html#a9e8852a07098a92796d129888475cf9b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="FixedUpdate"><param name="Local" value="class_player_movement.html#a0caaa871b9ef680c9f02bd0e22c77db1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveCharacter"><param name="Local" value="class_player_movement.html#a32eaab5e97185890fe1d96e6eb2fff51"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnLanding"><param name="Local" value="class_player_movement.html#abfd7d674aa0d3a70184897dcf7fba738"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="class_player_movement.html#a0f1ed1e33528156b8222ef90b75cf6c9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="PlayFlagSound"><param name="Local" value="class_player_movement.html#a7c51dc732580b4fdde76c2dcc4932570"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RestartGame"><param name="Local" value="class_player_movement.html#a5902557351986a2bd9594722861f6de6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="class_player_movement.html#abf3660ca2b1a352b4a9da98437c61aa3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="StartTime"><param name="Local" value="class_player_movement.html#aae4c9ac9f97ee922d747872c00c75597"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="StopCharacter"><param name="Local" value="class_player_movement.html#ad764ebaf27d812fe2a2a9c5aaaac4140"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="class_player_movement.html#aaf9b77d7177d538be9c1447d08191322"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateScore"><param name="Local" value="class_player_movement.html#a460c3d92df83d68030fb5c46228ac9b2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateTime"><param name="Local" value="class_player_movement.html#ac3c54bf305c189b07b049d9afad28853"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="WaitForClipAndReset"><param name="Local" value="class_player_movement.html#ade408e27d607b1036a305ded560da38d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="WaitToEnd"><param name="Local" value="class_player_movement.html#a4fda7314cb9bf9b34af0f3971f13f8de"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aDie"><param name="Local" value="class_player_movement.html#a5609ab9358388649d6e831ea374d268a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aFlag"><param name="Local" value="class_player_movement.html#a3982a47a9beccf33cb965d74e7517571"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aGameOver"><param name="Local" value="class_player_movement.html#ab9344531b8234665516c60038b888332"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aJump"><param name="Local" value="class_player_movement.html#a79cd6eb83a3f577b841dee2b0829e9e3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="allowMove"><param name="Local" value="class_player_movement.html#a217c3ced225b38602492d8850ef33f48"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="animator"><param name="Local" value="class_player_movement.html#aa28ee5c780c6cab4092054bbe95b0d10"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="class_player_movement.html#ad8aa606eb41f85d3a3feeb786be229e1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aStageClear"><param name="Local" value="class_player_movement.html#a370e12da4ad933b4fec669542b3ffb9a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CoinCount"><param name="Local" value="class_player_movement.html#ab84dd58b05b6789bfc1d96adc45073a5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="controller"><param name="Local" value="class_player_movement.html#a9760fdc26477db26c5816ea3d1ae0def"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="horizontalMove"><param name="Local" value="class_player_movement.html#a8a01bfbf958d89a2c204a747098a6f24"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="inReset"><param name="Local" value="class_player_movement.html#a6b6aefe2d68a93cf95d09bc052096fcb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="jump"><param name="Local" value="class_player_movement.html#af33cc9d4c2dc2e8a0ce69b42764b2f27"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="livesScore"><param name="Local" value="class_player_movement.html#a7b1e9cfeac43737345271374b82c58e3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_coins"><param name="Local" value="class_player_movement.html#adf065c536161f386ae3dcf639d2d6c58"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_lives"><param name="Local" value="class_player_movement.html#a1eef5899e23c79bf25924ac2cabf4f06"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_points"><param name="Local" value="class_player_movement.html#a8ea1526bd44920a01c9741f13214340b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="m_time"><param name="Local" value="class_player_movement.html#ad223edf92d27f2bf95a9fb282bc036d4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Num_Of_Lives"><param name="Local" value="class_player_movement.html#a7564966066f5aa3f41ecc759198d81a3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Previous_Score"><param name="Local" value="class_player_movement.html#a1ea008c6d78d95f162238ba4be4ea2e8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="rbody"><param name="Local" value="class_player_movement.html#a54c5516a4e95fab05fe7acf6cd889fdf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="runSpeed"><param name="Local" value="class_player_movement.html#a3e95a93e4b38bd93a910320465cc00d1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ScoreCount"><param name="Local" value="class_player_movement.html#ada75b398c592a9525070df378b0845ab"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="StopTimer"><param name="Local" value="class_player_movement.html#ac0da0e1b4bc3ac9db11de1f17fc349db"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="time"><param name="Local" value="class_player_movement.html#ac3a6e0cde0ec0db684ac567f5dd7f3b9"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Post_action.cs"><param name="Local" value="_post__action_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Post_action"><param name="Local" value="class_post__action.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="class_post__action.html#a381e276a445d79bd7558687002545410"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="class_post__action.html#a5e0f8b93979047ec0a1a0a0a27b7bcde"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="anim"><param name="Local" value="class_post__action.html#a9bd30f476a7b52ee64a7eb70d7a14a6a"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="QMark.cs"><param name="Local" value="_q_mark_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="QMark"><param name="Local" value="class_q_mark.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnTriggerEnter2D"><param name="Local" value="class_q_mark.html#a3e516353de7b3412330ffa3aad3ab51e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Spawn"><param name="Local" value="class_q_mark.html#aaef7e7f46913792536471a4c42207ed1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Start"><param name="Local" value="class_q_mark.html#a12fc2eab9a128b4d45df50f9f34a72cd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Update"><param name="Local" value="class_q_mark.html#a94d9939fd8fe151b15c232cf69c516c4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="anim"><param name="Local" value="class_q_mark.html#ae6bf508ab3c33227795010b3d0151585"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="aSource"><param name="Local" value="class_q_mark.html#a7911e5770da8bcfd8d8f88225c218b90"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="coin"><param name="Local" value="class_q_mark.html#aeebc99d97e09348e0d90ca9647d775c8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="HasBeenHit"><param name="Local" value="class_q_mark.html#a4f4399eb2a4df3d5b8775af989a29a85"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="items"><param name="Local" value="class_q_mark.html#a8029b950df7e9480f04b6f3b4a66729e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="powerUp"><param name="Local" value="class_q_mark.html#a8cd8e5e3bc16db19f3008c28e2c0b65f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

@@ -1,0 +1,19 @@
+digraph "PlayerMovement.OnTriggerEnter2D"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node22 [label="PlayerMovement.OnTrigger\lEnter2D",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node22 -> Node23 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="PlayerMovement.AddFinalPoints",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a99e6046125fbe147900c101f8f99d959"];
+  Node23 -> Node24 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="PlayerMovement.UpdateScore",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a460c3d92df83d68030fb5c46228ac9b2",tooltip="UpdateScore: Updates the Score constantly, Can be called by any function or Script. "];
+  Node23 -> Node25 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="PlayerMovement.UpdateTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#ac3c54bf305c189b07b049d9afad28853",tooltip="UpdateTime: Updates the Time constantly, Can be called by any function or Script. ..."];
+  Node22 -> Node26 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="PlayerMovement.PlayFlagSound",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a7c51dc732580b4fdde76c2dcc4932570"];
+  Node22 -> Node27 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="PlayerMovement.MoveCharacter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a32eaab5e97185890fe1d96e6eb2fff51"];
+  Node22 -> Node28 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 [label="PlayerMovement.WaitToEnd",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_movement.html#a4fda7314cb9bf9b34af0f3971f13f8de"];
+}
